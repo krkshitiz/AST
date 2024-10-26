@@ -22,5 +22,5 @@ The Rule Engine application is designed to evaluate user eligibility based on dy
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/RuleEngine.git
+   git clone https://github.com/krkshitiz/AST.git
    cd RuleEngine
